@@ -1,1 +1,10 @@
-body
+p{
+    color: rgb(255, 27, 27);
+    block-size: auto;
+    border-block-color: #000;
+    
+}
+
+body{
+    color: blue;
+}
