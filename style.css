@@ -1,10 +1,11 @@
 p{
     color: rgb(255, 27, 27);
-    block-size: auto;
-    border-block-color: #000;
-    
+    block-size: 20px 20px 20px 20px;
+    margin: 20px;
+    box-sizing: border-box;
+    background-color: black;
 }
 
 body{
-    color: blue;
+    background-color: rgb(79, 79, 134);
 }
